@@ -87,7 +87,7 @@ const Details = () => {
                         </div>
                         <div className="right_view  col-lg-6 col-md-6 col-12">
 
-                            <p className="mt-5"><PhoneAndroidIcon />mobile: <span>+91 {getuserdata.mobile}</span></p>
+                            <p className="mt-5"><PhoneAndroidIcon />mobile: <span>+92 {getuserdata.mobile}</span></p>
                             <p className="mt-3"><LocationOnIcon />location: <span>{getuserdata.add}</span></p>
                             <p className="mt-3">Description: <span>{getuserdata.desc}</span></p>
                         </div>
